@@ -1,7 +1,8 @@
 # _VM_
-I have the best of made from scratch virtual machines (VirtualBox) with a selected OS (FreeBsd) :
+I have the best of made from scratch FreeBsd on VirtualBox :
 https://download.freebsd.org/snapshots/
 http://ftp.freebsd.org/pub/FreeBSD/snapshots/	stable
+
 make install clean BATCH=yes
 After install:
 % shutdown -p now
