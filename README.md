@@ -3,6 +3,8 @@ I have the best of made from scratch FreeBsd on VirtualBox :
 https://download.freebsd.org/snapshots/
 http://ftp.freebsd.org/pub/FreeBSD/snapshots/	stable
 
+![VirtualBox__OLDuSTy__18_08_2024_20_43_49](https://github.com/user-attachments/assets/93e4bd3b-fe3f-46ad-a153-7395482839cd)
+
 make install clean BATCH=yes
 After install:
 % shutdown -p now
