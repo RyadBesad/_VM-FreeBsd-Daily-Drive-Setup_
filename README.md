@@ -128,7 +128,6 @@ ck-launch-session dbus-launch --exit-with-session /usr/local/bin/startlxde   (Lx
 # pkg install vim 37mib 8mib
 
 # pkg install keepassxc 65mib 13mib
-# pkg install git 40mib 8mib 
 # pkg install gnumeric 360mib 72mib 
 # pkg install abiword 40mib 9mib 
 # firefox-esr 375mib 79mib
